@@ -6,7 +6,7 @@ const register = ({ strapi }: { strapi: Core.Strapi }) => {
   strapi.customFields.register({
     name: 'uuid',
     plugin: PLUGIN_ID,
-    type: 'uid',
+    type: 'string',
   });
 };
 
