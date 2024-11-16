@@ -1,5 +1,5 @@
 {
-  "name": "strapi-advanced-uuid",
+  "name": "@technitools/strapi-advanced-uuid",
   "version": "2.0.1",
   "description": "UUID field type support to Strapi with customizations",
   "keywords": [
